@@ -1,0 +1,2 @@
+2023-05-17 16:27:24.9819 Trace FileTarget: Closing 'D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\bin\Debug\net6.0\.\logs\2023-05-17_logfile.txt'
+2023-05-17 16:27:24.9819 Trace FileTarget(Name=logfile): Opening D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\bin\Debug\net6.0\.\logs\2023-05-17_logfile.txt with allowFileSharedWriting=False

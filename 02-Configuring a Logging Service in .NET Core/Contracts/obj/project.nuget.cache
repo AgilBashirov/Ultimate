@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QF5S2KOWLsk3+o1TmtNijx1HDS5s8ZRAgPR2cldBwmdmFG+hBQNqudYpPMikGV63OMouzDgej/XpHBMACk0mhg==",
+  "success": true,
+  "projectFilePath": "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
