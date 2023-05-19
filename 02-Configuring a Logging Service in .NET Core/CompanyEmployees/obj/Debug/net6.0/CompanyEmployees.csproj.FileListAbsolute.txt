@@ -200,3 +200,8 @@ D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\Com
 D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\bin\Debug\net6.0\Shared.pdb
 D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\bin\Debug\net6.0\AutoMapper.dll
 D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\obj\Debug\net6.0\staticwebassets\msbuild.CompanyEmployees.Microsoft.AspNetCore.StaticWebAssets.props
+D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\obj\Debug\net6.0\staticwebassets\msbuild.build.CompanyEmployees.props
+D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CompanyEmployees.props
+D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CompanyEmployees.props
+D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\CompanyEmployees\obj\Debug\net6.0\staticwebassets.pack.json

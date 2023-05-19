@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wr6hkauKhjFXXGRilkmlibAOfnWYsao0hLbjUGHBttdmUGqYHfpIshT2EDhrtvCGxGRwUVajl1s5dr1ePqpH/Q==",
+  "dgSpecHash": "PHze/dubQlcbJ3Uo9Pl1tHRN74Qm8PEguNFfvUW5QSNF4qo+bREvNdxGZHW8/c7izDeKA8aLrWpLUO87346pEg==",
   "success": true,
   "projectFilePath": "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\Entities\\Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
