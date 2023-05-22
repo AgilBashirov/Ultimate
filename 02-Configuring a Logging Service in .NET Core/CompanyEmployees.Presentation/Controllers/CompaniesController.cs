@@ -2,6 +2,7 @@
 using Service.Contracts;
 using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,7 +10,7 @@ using Shared.DataTransferObjects;
 
 namespace CompanyEmployees.Presentation.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/companies")]
     [ApiController]
     public class CompaniesController : ControllerBase
     {
@@ -38,10 +39,26 @@ namespace CompanyEmployees.Presentation.Controllers
             if (company is null)
                 return BadRequest("CompanyForCreationDto object is null");
             var createdCompany = _service.CompanyService.CreateCompany(company);
-            return CreatedAtRoute("CompanyById", new { id = createdCompany.Id },
-                createdCompany);
+            return CreatedAtRoute("CompanyById", new { id = createdCompany.Id }, createdCompany);
+        }
+        
+        [HttpGet("collection/({ids})", Name = "CompanyCollection")]
+        public IActionResult GetCompanyCollection(IEnumerable<Guid> ids)
+        {
+            var companies = _service.CompanyService.GetByIds(ids, trackChanges: false);
+            return Ok(companies);
         }
 
+        [HttpPost("collection")]
+        public dynamic CreateCompanyCollection([FromBody] IEnumerable<CompanyForCreationDto> companyCollection)
+        {
+            var result = _service.CompanyService.CreateCompanyCollection(companyCollection);
+            // dynamic result2 = new ExpandoObject();
+            // result2.DataAqil = result;
+            //
+            // return result2;
+            return CreatedAtRoute("CompanyCollection", new { result.ids }, result.companies);
+        }
 
     }
 }
