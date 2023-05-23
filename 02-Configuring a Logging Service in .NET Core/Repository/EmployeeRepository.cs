@@ -27,5 +27,6 @@ namespace Repository
             Create(employee);
         }
 
+        public void DeleteEmployee(Employee employee) => Delete(employee);
     }
 }
