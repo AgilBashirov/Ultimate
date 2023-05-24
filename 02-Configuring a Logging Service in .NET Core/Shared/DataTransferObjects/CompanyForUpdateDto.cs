@@ -1,3 +1,3 @@
 ﻿namespace Shared.DataTransferObjects;
 
-public record CompanyForUpdateDto();
+public record CompanyForUpdateDto(string Name, string Address, string Country, IEnumerable<EmployeeForCreationDto> Employees);
