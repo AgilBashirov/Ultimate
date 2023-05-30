@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FTL60auUVS+9G4HzKsOXz++X1ArF/4X2dyS62tBUdRQf0Zyg3ioe2UL5oHbLU+N9aIkZZHIEYvVHWmXN+u9ZNA==",
+  "dgSpecHash": "Jg0TmvcEMPk8zNZegZMOkhiP01KTTH44FNfG8HxrR2jsdUemDIK1sr+38hmSIGrInMY9PcN+AJOLck13uIynGg==",
   "success": true,
   "projectFilePath": "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,10 @@
     "C:\\Users\\agil.bashirov\\.nuget\\packages\\nlog\\5.1.3\\nlog.5.1.3.nupkg.sha512",
     "C:\\Users\\agil.bashirov\\.nuget\\packages\\nlog.extensions.logging\\5.2.3\\nlog.extensions.logging.5.2.3.nupkg.sha512",
     "C:\\Users\\agil.bashirov\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\agil.bashirov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }

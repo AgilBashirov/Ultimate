@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oon1pgLIeYcumlNHGOfrGPpV5oOp82ohSJ3TPIfXOIY3VGkdo1vWsXd4WK2XMQlUiMM9HiIQ/+Yvqy4Wy1Ru2Q==",
+  "dgSpecHash": "xpjfT018k/vm/u+nmNoUOpsM89GE0bTcPaFXTtxZdioKCati5lwWV3i60KiFklRYdoqMPYjlcHuvp76CP9I8dA==",
   "success": true,
   "projectFilePath": "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [
@@ -105,7 +105,11 @@
     "C:\\Users\\agil.bashirov\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\agil.bashirov\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\agil.bashirov\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\agil.bashirov\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\agil.bashirov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
