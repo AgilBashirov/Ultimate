@@ -222,6 +222,9 @@
             "projectReferences": {
               "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\Entities\\Entities.csproj": {
                 "projectPath": "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\Entities\\Entities.csproj"
+              },
+              "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\Shared\\Shared.csproj"
               }
             }
           }

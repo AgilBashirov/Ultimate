@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Jg0TmvcEMPk8zNZegZMOkhiP01KTTH44FNfG8HxrR2jsdUemDIK1sr+38hmSIGrInMY9PcN+AJOLck13uIynGg==",
+  "dgSpecHash": "OxViIiMS1dr1kC0NJsBU911ZxD/WjfYLHon5FHHWTSEsOxxSc5VjZYrp6KoNs9MkqYvEy8AiKAV1s+goGR4tbg==",
   "success": true,
   "projectFilePath": "D:\\softwaredepartment\\Ultimate\\02-Configuring a Logging Service in .NET Core\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [

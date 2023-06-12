@@ -28,3 +28,5 @@ D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\Con
 D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\Contracts\obj\Debug\net6.0\refint\Contracts.dll
 D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\Contracts\obj\Debug\net6.0\Contracts.pdb
 D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\Contracts\bin\Debug\net6.0\Shared.dll
+D:\softwaredepartment\Ultimate\02-Configuring a Logging Service in .NET Core\Contracts\bin\Debug\net6.0\Shared.pdb
