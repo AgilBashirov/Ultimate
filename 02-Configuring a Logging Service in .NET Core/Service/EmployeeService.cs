@@ -32,7 +32,7 @@ namespace Service
         }
 
 
-        public async Task<(IEnumerable<ExpandoObject> employees, MetaData metaData)> GetEmployeesAsync
+        public async Task<(IEnumerable<Entity> employees, MetaData metaData)> GetEmployeesAsync
             (Guid companyId, EmployeeParameters employeeParameters, bool trackChanges)
         {
             if (!employeeParameters.ValidAgeRange)
